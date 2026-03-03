@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Privacy Policy - Task Management & To-Do List</title>
+  <style>
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, sans-serif; max-width: 720px; margin: 0 auto; padding: 24px; line-height: 1.6; color: #333; }
+    h1 { font-size: 1.75rem; margin-top: 0; }
+    h2 { font-size: 1.15rem; margin-top: 1.5em; }
+    p { margin: 0.5em 0; }
+    ul { margin: 0.5em 0; padding-left: 1.5em; }
+    a { color: #5E4D9E; }
+    .updated { font-size: 0.9rem; color: #666; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p class="updated">Last updated: [ADD DATE e.g. March 2025]</p>
+
+  <p>This privacy policy applies to the mobile application <strong>Task Management & To-Do List</strong> (“the App”) available on Google Play.</p>
+
+  <h2>1. Data We Collect</h2>
+  <p>The App stores the following information <strong>only on your device</strong>:</p>
+  <ul>
+    <li>Tasks (title, description, progress, due date, group)</li>
+    <li>Task groups (e.g. Office Project, Personal Project, Daily Study)</li>
+    <li>The name you optionally enter in Settings (used for the greeting)</li>
+    <li>Onboarding completion (so the app does not show the onboarding screen again)</li>
+  </ul>
+  <p>No account is required. We do not collect, transmit, or store any of this data on our servers or with third parties.</p>
+
+  <h2>2. How We Use Your Data</h2>
+  <p>All data is used solely to provide the App’s features: displaying and managing your tasks, progress, and preferences on your device. We do not use your data for advertising, analytics, or any other purpose.</p>
+
+  <h2>3. Where Your Data Is Stored</h2>
+  <p>All data is stored locally on your device using the device’s storage (SQLite database and app preferences). It is not sent to the developer or any third party.</p>
+
+  <h2>4. Data Sharing</h2>
+  <p>We do not sell, rent, or share your personal data with third parties. We do not have access to your tasks or your name.</p>
+
+  <h2>5. Data Deletion</h2>
+  <p>Uninstalling the App will remove all stored data from your device. There is no separate account or online profile to delete.</p>
+
+  <h2>6. Children</h2>
+  <p>The App is not directed at children under 13. We do not knowingly collect personal information from children.</p>
+
+  <h2>7. Changes to This Policy</h2>
+  <p>We may update this privacy policy from time to time. The “Last updated” date at the top will be revised, and the new version will be available at this page. Continued use of the App after changes constitutes acceptance of the updated policy.</p>
+
+  <h2>8. Contact</h2>
+  <p>If you have questions about this privacy policy or the App, please contact us at: <a href="mailto:[YOUR-EMAIL@example.com]">[YOUR-EMAIL@example.com]</a>.</p>
+</body>
+</html>
